@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Daisy Oloo 👋
 
-<!--
-**daisyoloo-data/daisyoloo-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Business and Data Analyst with a background in Applied Statistics
+and over 5 years of experience supporting data-driven decision-making.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- Business Requirements Analysis
+- Data Analysis & Reporting
+- Excel (Advanced)
+- Power BI
+- SQL
+- Python (Pandas, NumPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Featured Projects
+- Sales Performance Dashboard
+- Business KPI Analysis
+- Inventory & Supply Chain Analysis
+
+📧 Email: daisyadisi@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/daisy-oloo-a22098178/
